@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+  div {
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 30px;
+    background-color: #a7d7a7;
+    margin-right: 100px;
+  }
+  nav{
+    display: flex;
+    background-color: purple;
+    margin-left: 0;
+  }
+  nav h1 {
+    margin-left: 20px;
+  }
+  nav li {
+    list-style: none;
+    color: black;
+    background: white;
+    margin-left: 72rem;
+    padding: 10px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+  }
+  nav li a {
+    justify-content: bet;
+  }
